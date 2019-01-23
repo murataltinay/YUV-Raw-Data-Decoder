@@ -5,7 +5,8 @@
   
 4:2:0  reference arrays : http://trace.eas.asu.edu/yuv/index.html  
 4:2:2 reference arrays : http://samples.mplayerhq.hu/raw-video/squirrel-720x576-422P.yuv  
-4:4:4 reference arrays : http://samples.mplayerhq.hu/raw-video/squirrel-720x576-444P.yuv
+4:4:4 reference arrays : http://samples.mplayerhq.hu/raw-video/squirrel-720x576-444P.yuv  
+<h6>After downloading one of these files, run the program.<h6>  
   
 RUNTİME STEPS
 <h4>1-Firstly you must selected to downloaded file's path at the program starting moment.(most top box)<h4>  
