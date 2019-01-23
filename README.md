@@ -14,5 +14,5 @@ RUNTİME STEPS
 <h5>3-After than you must choose right correct option from checkbox.(must enter the file's format 4-4-4,4-2-2,4-2-0)(fourth box)<h5>  
 <h4>4-After that before you must click on save button.<h4>  
 <h4>5-Finally you can click play button,replay button or stop button vb..<h4>  
- *After click on save button frames to saved to bin folder.*  
- *Frames are saved as .bmp type.*
+ *After click on save button frames to saved to bin folder.(Frames are saved as .bmp type.)*  
+ 
